@@ -5,8 +5,7 @@
 ### **AI & Systems Engineer • Concurrency, Machine Learning & Quant Infrastructure**
 *Final-Year B.Tech in Artificial Intelligence & Data Science • Sri Krishna College of Technology*
 
-[![Website](https://img.shields.io/badge/Agency-rkws.in-00f2fe?style=for-the-badge&logo=googlechrome&logoColor=black)](https://rkws.in)
-[![Live WebHUD](https://img.shields.io/badge/DOT--JV-jv.rkws.in-ff007f?style=for-the-badge&logo=gnubash&logoColor=white)](https://jv.rkws.in)
+[![Website](https://img.shields.io/badge/Portfolio-rkws.in-00f2fe?style=for-the-badge&logo=googlechrome&logoColor=black)](https://rkws.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ramani2105-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ramani2105)
 [![Public Vouches](https://img.shields.io/badge/Vouches-Verified_Proof-brightgreen?style=for-the-badge&logo=github)](https://github.com/Ramani-21-05/vouches)
 [![Email](https://img.shields.io/badge/Email-ramanikrish2105@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramanikrish2105@gmail.com)
@@ -54,19 +53,17 @@ Final-year AI & Data Science engineer focused on **production proof-of-work** ov
 
 ### 🚀 Flagship Proof-of-Work Repositories
 
-#### 1. [DOT-JV (J.A.R.V.I.S. Autonomous Linux OS)](https://jv.rkws.in)
-> *24/7 Agentic Life & Engineering Operating System running on headless Arch Linux.*
-- **Hardware Guardian**: 3s sysfs telemetry loop, auto-throttling at 80°C, zero-heat TrueColor Arc Reactor HUD (< 0.2% CPU).
-- **Two-Way Vocal Loop**: Telegram audio memo transcription (STT) + British J.A.R.V.I.S. neural voice synthesis (`en-GB-RyanNeural`).
-- **Dynamic UPI Payment Rail**: NPCI-compliant dynamic QR generation and formal PDF invoices for instant 0% fee client settlements.
-- **Persistent Second Brain**: SQLite FTS5 BM25 full-text search engine querying family health policies and college deadlines in < 2ms.
-- **Live Global WebHUD**: Accessible worldwide via Cloudflare Tunnels at [`https://jv.rkws.in`](https://jv.rkws.in).
-
-#### 2. [SignMamba: SLR-SSM](https://github.com/Ramani-21-05/SLR-SSM)
-> *Continuous Sign Language Recognition using Selective State Space Models (Mamba).*
-- Built as an answer to STNet's GPU memory limitations (batch-size-2 ceiling).
+#### 1. [SignMamba: SLR-SSM](https://github.com/Ramani-21-05/SLR-SSM)
+> *Continuous Sign Language Recognition using Deep Learning Sequence Models (PyTorch, Transformers & State Space Models / Mamba).*
+- Built as an answer to STNet's GPU memory limitations (batch-size-2 ceiling) using linear-time sequence modeling.
 - Multi-modal 3-stream architecture: MobileNetV3-Small RGB backbone + MediaPipe 3-stream MLPs (left hand, right hand, pose) + Pyramid Mamba hierarchical decoder.
 - CTC Loss with greedy/beam search decoding and Word Error Rate (WER) validation.
+
+#### 2. Quantitative Alpha & Market Microstructure Engine
+> *High-Throughput Intraday Algorithmic Trading Infrastructure (Python, C++, Linux).*
+- Zero-copy Parquet historical tick pipeline processing 183M bars across 10-year market regimes.
+- Multi-session structural execution (Morning Decoupling & London Breakout) with statutory friction modeling (STT, GST, exchange fees).
+- Low-latency risk watchdog, Cgroups v2 memory sandboxes, and dynamic equity compounding.
 
 #### 3. [PharmaForecast-AI (`shall-we-start`)](https://github.com/Ramani-21-05/shall-we-start)
 > *Enterprise Pharmaceutical Demand Forecasting & Stockout Mitigation Engine.*
@@ -107,6 +104,6 @@ Transparent proof of technical problem-solving, Linux debugging, and client revi
 
 **“First make it work, then make it right, then make it fast.”**  
 *Available for high-impact AI/ML, Systems Engineering, and Quant roles.*  
-[Let's Connect on LinkedIn](https://linkedin.com/in/ramani2105) • [Visit Agency Site](https://rkws.in)
+[Let's Connect on LinkedIn](https://linkedin.com/in/ramani2105) • [Engineering Portfolio](https://rkws.in)
 
 </div>
