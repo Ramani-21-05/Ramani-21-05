@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Ramani Krishnan
+# ⚡ Ramani Pannirselvam
 
 ### **AI & Systems Engineer • Concurrency, Machine Learning & Quant Infrastructure**
 *Final-Year B.Tech in Artificial Intelligence & Data Science • Sri Krishna College of Technology*
