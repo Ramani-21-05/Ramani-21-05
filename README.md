@@ -8,6 +8,7 @@
 [![Website](https://img.shields.io/badge/Agency-rkws.in-00f2fe?style=for-the-badge&logo=googlechrome&logoColor=black)](https://rkws.in)
 [![Live WebHUD](https://img.shields.io/badge/DOT--JV-jv.rkws.in-ff007f?style=for-the-badge&logo=gnubash&logoColor=white)](https://jv.rkws.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ramani2105-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ramani2105)
+[![Public Vouches](https://img.shields.io/badge/Vouches-Verified_Proof-brightgreen?style=for-the-badge&logo=github)](https://github.com/Ramani-21-05/vouches)
 [![Email](https://img.shields.io/badge/Email-ramanikrish2105@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramanikrish2105@gmail.com)
 
 ---
@@ -82,6 +83,12 @@ Final-year AI & Data Science engineer focused on **production proof-of-work** ov
 > *Full-Stack Student Career Readiness Platform (Next.js 15, TypeScript, Tailwind).*
 - Connects live GitHub and LeetCode activity to compute corporate readiness scores.
 - Matches candidate profiles against real hiring thresholds (TCS, Infosys, Zoho, Product Startups).
+
+---
+
+### 🛡️ Verified Public Vouches & Technical Verification
+Transparent proof of technical problem-solving, Linux debugging, and client reviews:  
+👉 **[View Public Vouches & Verification Log](https://github.com/Ramani-21-05/vouches)** • **[Leave a Testimonial in Issue #1](https://github.com/Ramani-21-05/vouches/issues/1)**
 
 ---
 
