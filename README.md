@@ -7,7 +7,7 @@
 
 [![Website](https://img.shields.io/badge/Portfolio-rkws.in-00f2fe?style=for-the-badge&logo=googlechrome&logoColor=black)](https://rkws.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ramani2105-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ramani2105)
-[![Public Vouches](https://img.shields.io/badge/Vouches-Verified_Proof-brightgreen?style=for-the-badge&logo=github)](https://github.com/Ramani-21-05/vouches)
+[![GitHub](https://img.shields.io/badge/GitHub-Ramani--21--05-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ramani-21-05)
 [![Email](https://img.shields.io/badge/Email-ramanikrish2105@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramanikrish2105@gmail.com)
 
 ---
@@ -65,27 +65,16 @@ Final-year AI & Data Science engineer focused on **production proof-of-work** ov
 - Multi-session structural execution (Morning Decoupling & London Breakout) with statutory friction modeling (STT, GST, exchange fees).
 - Low-latency risk watchdog, Cgroups v2 memory sandboxes, and dynamic equity compounding.
 
-#### 3. [PharmaForecast-AI (`shall-we-start`)](https://github.com/Ramani-21-05/shall-we-start)
+#### 3. [PharmaForecast-AI](https://github.com/Ramani-21-05/pharma-forecast-ai)
 > *Enterprise Pharmaceutical Demand Forecasting & Stockout Mitigation Engine.*
-- Dual forecasting pipeline using **CatBoost** and **LightGBM** evaluated on 2019/2020 holdout historical sales data.
+- Dual forecasting pipeline using **CatBoost** and **LightGBM** evaluated on holdout historical sales data.
 - Full FastAPI backend, Supabase SQL schema migrations, and inventory recommendation engine (Safety Stock & Re-Order Point).
-- 29 KB of mathematical and feature importance documentation.
+- Complete mathematical metrics and feature importance documentation.
 
 #### 4. [ASL Real-Time Classifier](https://github.com/Ramani-21-05/asl-lightgbm-)
 > *Real-time American Sign Language alphabet recognition using MediaPipe Hands + LightGBM.*
 - Normalized 21-point hand landmark extraction with 8-frame rolling temporal smoothing (`PredictionSmoother`) to eliminate classification jitter.
-- Multi-threaded Flask runtime with OpenCV video feed and zero latency.
-
-#### 5. [Placement Reality](https://github.com/Ramani-21-05/placement-reality)
-> *Full-Stack Student Career Readiness Platform (Next.js 15, TypeScript, Tailwind).*
-- Connects live GitHub and LeetCode activity to compute corporate readiness scores.
-- Matches candidate profiles against real hiring thresholds (TCS, Infosys, Zoho, Product Startups).
-
----
-
-### 🛡️ Verified Public Vouches & Technical Verification
-Transparent proof of technical problem-solving, Linux debugging, and client reviews:  
-👉 **[View Public Vouches & Verification Log](https://github.com/Ramani-21-05/vouches)** • **[Leave a Testimonial in Issue #1](https://github.com/Ramani-21-05/vouches/issues/1)**
+- Multi-threaded Flask runtime with OpenCV video feed and sub-10ms inference.
 
 ---
 
