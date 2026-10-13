@@ -71,7 +71,7 @@ Final-year AI & Data Science engineer focused on **production proof-of-work** ov
 - Full FastAPI backend, Supabase SQL schema migrations, and inventory recommendation engine (Safety Stock & Re-Order Point).
 - Complete mathematical metrics and feature importance documentation.
 
-#### 4. [ASL Real-Time Classifier](https://github.com/Ramani-21-05/asl-lightgbm-)
+#### 4. [ASL Real-Time Classifier](https://github.com/Ramani-21-05/asl-lightgbm)
 > *Real-time American Sign Language alphabet recognition using MediaPipe Hands + LightGBM.*
 - Normalized 21-point hand landmark extraction with 8-frame rolling temporal smoothing (`PredictionSmoother`) to eliminate classification jitter.
 - Multi-threaded Flask runtime with OpenCV video feed and sub-10ms inference.
